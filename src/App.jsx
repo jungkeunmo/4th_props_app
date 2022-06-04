@@ -33,7 +33,8 @@ const App = () => {
         margin: "10px",
         borderRadius: "10px",
         color: "#fff",
-        boxShadow: "2px 2px 4px #b8b8b8"
+        boxShadow: "2px 2px 4px #b8b8b8",
+        padding: "10px"
     }
 
     return (
